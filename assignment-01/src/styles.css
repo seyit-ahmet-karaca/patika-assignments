@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+}
+
+#app {
+  display: flex;
+}
+
+#app .product {
+  margin: 10px 10px;
+  display: flex;
+  flex-direction: column;
+  height: 250px;
+  background-color: seashell;
+  border-radius: 30px;
+}
+
+#app > .product > .image {
+  height: 80%;
+  width: 100%;
+  border-radius: 30px;
+}
+
+#app > .product > .name {
+  display: flex;
+  justify-content: center;
+  font-size: 1.4rem;
+  padding: 10px 0;
+}

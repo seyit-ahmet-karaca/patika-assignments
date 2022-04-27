@@ -1,0 +1,26 @@
+{
+  "name": "vanilla-js-template",
+  "version": "1.0.0",
+  "description": "Vanilla JS Project template for Modanisa Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "yarn parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denizgursoy/vanilla-js-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denizgursoy/vanilla-js-template/issues"
+  },
+  "homepage": "https://github.com/denizgursoy/vanilla-js-template#readme",
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  },
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
