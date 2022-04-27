@@ -1,0 +1,26 @@
+mode: set
+bootcamp/assignment/assignment.go:10.44,14.2 3 1
+bootcamp/assignment/assignment.go:16.36,18.43 2 1
+bootcamp/assignment/assignment.go:18.43,20.3 1 1
+bootcamp/assignment/assignment.go:20.8,22.3 1 1
+bootcamp/assignment/assignment.go:25.36,29.2 3 1
+bootcamp/assignment/assignment.go:31.42,32.57 1 1
+bootcamp/assignment/assignment.go:32.57,33.26 1 1
+bootcamp/assignment/assignment.go:36.3,36.45 1 1
+bootcamp/assignment/assignment.go:33.26,35.4 1 1
+bootcamp/assignment/assignment.go:37.8,39.3 1 1
+bootcamp/assignment/assignment.go:42.38,46.29 3 1
+bootcamp/assignment/assignment.go:54.2,54.54 1 1
+bootcamp/assignment/assignment.go:57.2,57.44 1 1
+bootcamp/assignment/assignment.go:46.29,47.36 1 1
+bootcamp/assignment/assignment.go:47.36,49.4 1 1
+bootcamp/assignment/assignment.go:49.9,49.43 1 1
+bootcamp/assignment/assignment.go:49.43,51.4 1 1
+bootcamp/assignment/assignment.go:54.54,56.3 1 1
+bootcamp/assignment/assignment.go:60.50,63.22 2 1
+bootcamp/assignment/assignment.go:75.2,75.12 1 1
+bootcamp/assignment/assignment.go:63.22,65.28 2 1
+bootcamp/assignment/assignment.go:71.3,71.17 1 1
+bootcamp/assignment/assignment.go:65.28,66.62 1 1
+bootcamp/assignment/assignment.go:66.62,68.10 2 1
+bootcamp/assignment/assignment.go:71.17,73.4 1 1

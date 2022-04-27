@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="go build karaca" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+    <module name="week-6-assignment-seyit-ahmet-karaca" />
+    <working_directory value="$PROJECT_DIR$" />
+    <envs>
+      <env name="APP_ENV" value="test" />
+    </envs>
+    <kind value="PACKAGE" />
+    <package value="karaca" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$/main.go" />
+    <output_directory value="$PROJECT_DIR$" />
+    <method v="2" />
+  </configuration>
+</component>
